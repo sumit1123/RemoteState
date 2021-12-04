@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remote State</string>
+    <string name="truck_number">Truck Number:</string>
+    <string name="last_updated">Last Updated:</string>
+    <string name="stopped_running_state">Stopped/Running State:</string>
+    <string name="speed">Speed:</string>
+    <string name="search_truck">Search Truck</string>
+</resources>
